@@ -54,3 +54,4 @@ install.goimports:
 .PHONY: install.golangcilint
 install.golangcilint:
 	@go install github.com/golangci/golangci-lint/cmd/golangci-lint@latest
+#
